@@ -6,5 +6,5 @@ Description :<br />
 3. You can listen to sounds with matching images<br />
 4. You can change ordinary images<br />
 
-![Example Image](../project_images/cover.jpg?raw=true "Example Image")
+![Example Image](../project_images/sketch.jpg?raw=true "Example Image")
 
