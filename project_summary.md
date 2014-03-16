@@ -1,13 +1,13 @@
 # Project Title
-Fantasy World with google glass
+Fantasy World with Google Glass
 
 ## Authors
 - Atsushi Tabata https://github.com/atsushieee
 
 ## Description
-This work is application which send new experience to users with google glass.
-It changes the view of users a little, so it brings users to the fantasy world.
+This application aims to provide a new experience while using their Google glass.
+It makes a slight change to the user's view which brings them a more exciting experience like in a fantasy world.
 
-There are two main functions. First, it can change the users' view like watercolor painting, and display live viewing. Secondly, users listen to music which is synchronized with the landscape with bone conductive speaker.
+It has two main operations. First, the user can change the visual effects such as water color painting while viewing live images. Second, users can listen to music which is synchronized with the images using bone conductive speakers.
 
-This application may make people's mind refresh.
+This application may make people's mind refreshed.
